@@ -39,7 +39,7 @@ After deploying the updated code, I invoked the function multiple times and veri
 ## Evidence
 
 ### Screenshot 1 – Root Cause Analysis
-![Root Cause](screenshots/root-cause-analysis.png)
+![Root Cause]([https://github.com/ja616/awsdevops/blob/main/challenge-2/Screenshots/image.png])
 
 The AWS DevOps Agent identified the `NameError` and explained why the function was failing.
 
