@@ -39,11 +39,11 @@ After deploying the updated code, I invoked the function multiple times and veri
 ## Evidence
 
 ### Screenshot 1 – Root Cause Analysis
-![Root Cause]([https://github.com/ja616/awsdevops/blob/main/challenge-2/Screenshots/image.png])
+![Root Cause](Screenshots/image.png)
 
 The AWS DevOps Agent identified the `NameError` and explained why the function was failing.
 
 ### Screenshot 2 – Recovery Verification
-![Recovery](screenshots/recovery-verification.png)
+![Recovery](Screenshots/image%20copy.png)
 
 Successful Lambda invocation and the `challenge2-broken-fn-errors` alarm returning to the **OK** state.
