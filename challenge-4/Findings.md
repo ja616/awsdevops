@@ -159,17 +159,20 @@ This incident highlighted the value of:
 ## Evidence
 
 ### Screenshot 1 – Root Cause Analysis
-![Root Cause](Screenshots/root-image copy.png)
+![Root Cause](Screenshot/image-copy.png)
 
-AWS DevOps Agent identifying the missing `dynamodb:GetItem` permission and explaining why the function was failing.
+AWS DevOps Agent identifying the missing `dynamodb:GetItem` permission.
 
 ---
 
 ### Screenshot 2 – Recovery Verification
-![Recovery](Screenshots/image.png)
+![Recovery](Screenshot/image.png)
 
-Successful Lambda execution returning the product from DynamoDB and the `challenge4-app-fn-errors` alarm returning to the **OK** state.
+Successful Lambda execution returning the product and the alarm returning to the OK state.
 
-Bonus
-### Screenshot 3 – Recovery Verification
-![Recovery](Screenshots/image copy 2.png)
+---
+
+### Screenshot 3 – Bonus
+![Bonus](Screenshot/image-copy-2.png)
+
+Additional evidence showing the successful recovery and validation.
