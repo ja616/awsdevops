@@ -14,7 +14,7 @@ How to use
 - Screenshots are stored in the `Screenshots/` subfolders for each challenge.
 
 Contributing
-- This repository is primarily a record of completed challenges. If you make improvements, please commit clear, small changes and push to the `main` branch or open a pull request.
+- This repository is primarily a record of completed challenges.
 
 License
 - No license specified.
